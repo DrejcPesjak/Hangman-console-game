@@ -1,0 +1,18 @@
+J:\UPN pokaži kaj znaš\Vislice\Vislice\bin\Debug\Vislice.exe.config
+J:\UPN pokaži kaj znaš\Vislice\Vislice\bin\Debug\Vislice.exe
+J:\UPN pokaži kaj znaš\Vislice\Vislice\bin\Debug\Vislice.pdb
+J:\UPN pokaži kaj znaš\Vislice\Vislice\obj\Debug\Vislice.csprojResolveAssemblyReference.cache
+J:\UPN pokaži kaj znaš\Vislice\Vislice\obj\Debug\Vislice.exe
+J:\UPN pokaži kaj znaš\Vislice\Vislice\obj\Debug\Vislice.pdb
+C:\Sola2015\C#\Vislice\Vislice\bin\Debug\Vislice.exe.config
+C:\Sola2015\C#\Vislice\Vislice\obj\Debug\Vislice.exe
+C:\Sola2015\C#\Vislice\Vislice\obj\Debug\Vislice.pdb
+C:\Sola2015\C#\Vislice\Vislice\bin\Debug\Vislice.exe
+C:\Sola2015\C#\Vislice\Vislice\bin\Debug\Vislice.pdb
+C:\Sola2015\C#\Vislice\Vislice\obj\Debug\Vislice.csprojResolveAssemblyReference.cache
+C:\Sola2015-16\C#\Vislice\Vislice\bin\Debug\Vislice.exe.config
+C:\Sola2015-16\C#\Vislice\Vislice\obj\Debug\Vislice.exe
+C:\Sola2015-16\C#\Vislice\Vislice\obj\Debug\Vislice.pdb
+C:\Sola2015-16\C#\Vislice\Vislice\bin\Debug\Vislice.exe
+C:\Sola2015-16\C#\Vislice\Vislice\bin\Debug\Vislice.pdb
+C:\Sola2015-16\C#\Vislice\Vislice\obj\Debug\Vislice.csprojResolveAssemblyReference.cache
